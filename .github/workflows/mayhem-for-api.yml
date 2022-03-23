@@ -78,8 +78,7 @@ iqUsAvrgfgyd1xVYclEkdCKyOKitoGoo3
 curl -Lo mapi https://mayhem4api.forallsecure.com/downloads/cli/latest/linux-musl/mapi \
   && chmod +x mapi
 sudo mkdir -p /usr/local/bin/
-sudo install mapi /usr/local/bin/
-https://mayhem4api.forallsecure.com/downloads/cli/latest/windows-amd64/mapi.exe
+sudo install mapi
 mapi --help
 $ mapi login <NEW_TOKEN>
 
