@@ -1,0 +1,3 @@
+## Web X Rebel API
+
+" Web X Rebel API " an application program interface . Basically a data store that runs as its own application on a control network allowing u permission  to be on a server with a small charge . I charge $0.02 for token acces .After the frist 1000 its $0.02  and 10 $ yearly subscription.  I already have over 2000 users and 100 subscribers .  The thing is I need a dormant domain . Some how I can't configure my provider dns charger to hashnode or forgot my new domain . Do u know how I can obtain that information please if u can ? I hate for the frist app i build thT actually  makes money goes up in flame over adds configuration . So embarrassing.  But I can build api lol 😆 whats that's telling . 
