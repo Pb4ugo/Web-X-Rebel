@@ -1,0 +1,4 @@
+## I'll try them all 😛
+
+So many choices bro !!!. After I built my frist software there's no profit in it . I mean some company's give away software for free ..it's crazy . Than I discover that apps make more of a living with connected to websites and receiving quality inbound links . That there's a future in apps and motenzation .There's google cloud console that has a nice set up where u can even earn badges to get experience and job offers . Which I done it before but the work load is too much but I learned do much . And there's facebook developer platform where there's no money down and of course nefty " hashnode" where they got me doing missions to earn a certificate to earn a good job . Idk it's like a strip club for me 
+ I think I'll try them all 😜 peace
